@@ -1,0 +1,1521 @@
+# depslib dependency file v1.0
+1686667616 source:c:\users\usuario\desktop\proyectospacex-utn\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+
+1686667501 c:\users\usuario\desktop\proyectospacex-utn\astronauta.h
+
+1686667265 source:c:\users\usuario\desktop\proyectospacex-utn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+
+1686880128 source:c:\users\gc\downloads\proyectospacex-utn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+
+1686878983 c:\users\gc\downloads\proyectospacex-utn\astronauta.h
+
+1686880236 source:c:\users\gc\downloads\proyectospacex-utn\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+
+1686771665 source:c:\users\gc\desktop\proyectospacex-utn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+
+1686770720 c:\users\gc\desktop\proyectospacex-utn\astronauta.h
+
+1686771658 source:c:\users\gc\desktop\proyectospacex-utn\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+
+1686794590 source:c:\users\fabri\desktop\proyectospacex-utn\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+
+1686791611 c:\users\fabri\desktop\proyectospacex-utn\astronauta.h
+
+1686783313 source:c:\users\fabri\desktop\proyectospacex-utn\nave.c
+
+1686794395 source:c:\users\fabri\desktop\proyectospacex-utn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+
+1686783313 source:c:\users\gc\downloads\proyectospacex-utn\nave.c
+
+1686924304 source:c:\users\usuario\desktop\spacex-project-utn-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+
+1686930276 c:\users\usuario\desktop\spacex-project-utn-main\astronauta.h
+
+1686923494 source:c:\users\usuario\desktop\spacex-project-utn-main\nave.c
+
+1686924016 source:c:\users\usuario\desktop\spacex-project-utn-main\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+
+1686924304 source:c:\users\gc\desktop\spacex-project-utn-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+
+1686941698 c:\users\gc\desktop\spacex-project-utn-main\astronauta.h
+
+1686923494 source:c:\users\gc\desktop\spacex-project-utn-main\nave.c
+
+1687053341 source:c:\users\fabri\desktop\spacex-project-utn-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+
+1687051263 c:\users\fabri\desktop\spacex-project-utn-main\astronauta.h
+
+1687051039 source:c:\users\fabri\desktop\spacex-project-utn-main\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+
+1687050406 source:c:\users\fabri\desktop\spacex-project-utn-main\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+
+1686943696 c:\users\fabri\desktop\spacex-project-utn-main\nave.h
+
+1687050946 c:\users\fabri\desktop\spacex-project-utn-main\naves.h
+
+1687064907 source:c:\users\fabri\desktop\spacex-project-utn-main(fabri)\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+
+1687060000 c:\users\fabri\desktop\spacex-project-utn-main(fabri)\astronauta.h
+
+1687050946 c:\users\fabri\desktop\spacex-project-utn-main(fabri)\naves.h
+
+1687064287 source:c:\users\fabri\desktop\spacex-project-utn-main(fabri)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687060000 c:\users\fabri\desktop\spacex-project-utn-main(fabri)\menu.h
+
+1687060789 source:c:\users\fabri\desktop\spacex-project-utn-main(fabri)\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+
+1687060000 source:c:\users\fabri\desktop\spacex-project-utn-main(fabri)\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+
+1687064287 c:\users\fabri\desktop\spacex-project-utn-main(fabri)\nave.h
+
+1687060000 source:c:\users\gc\desktop\spacex-project-utn-main(fabri)\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+
+1687060000 c:\users\gc\desktop\spacex-project-utn-main(fabri)\astronauta.h
+
+1687064287 c:\users\gc\desktop\spacex-project-utn-main(fabri)\nave.h
+
+1687060000 c:\users\gc\desktop\spacex-project-utn-main(fabri)\menu.h
+
+1687066205 source:c:\users\gc\desktop\spacex-project-utn-main(fabri)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687050946 c:\users\gc\desktop\spacex-project-utn-main(fabri)\naves.h
+
+1687065893 source:c:\users\gc\desktop\spacex-project-utn-main(fabri)\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+
+1687065547 source:c:\users\gc\desktop\spacex-project-utn-main(fabri)\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+
+1687066205 source:c:\users\gc\desktop\version 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687101239 c:\users\gc\desktop\version 10\astronauta.h
+
+1687050946 c:\users\gc\desktop\version 10\naves.h
+
+1687060000 c:\users\gc\desktop\version 10\menu.h
+
+1687065893 source:c:\users\gc\desktop\version 10\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+
+1687065547 source:c:\users\gc\desktop\version 10\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+
+1687101740 source:c:\users\gc\desktop\version 10\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+
+1687064287 c:\users\gc\desktop\version 10\nave.h
+
+1687107031 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 10\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+
+1687105519 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 10\astronauta.h
+
+1687105372 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 10\nave.h
+
+1687106474 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 10\menu.h
+
+1687104195 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687104195 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 10\naves.h
+
+1687106986 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 10\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+
+1687105453 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 10\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687108851 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 11\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+
+1687105519 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 11\astronauta.h
+
+1687105372 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 11\nave.h
+
+1687106474 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 11\menu.h
+
+1687119793 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687104195 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 11\naves.h
+
+1687119697 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 11\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+
+1687119816 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 11\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687146337 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 12\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+
+1687144905 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 12\astronauta.h
+
+1687149201 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 12\nave.h
+
+1687106474 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 12\menu.h
+
+1687147411 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687104195 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 12\naves.h
+
+1687144963 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 12\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687148651 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 12\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687146337 source:c:\users\gc\desktop\version 12\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+
+1687144905 c:\users\gc\desktop\version 12\astronauta.h
+
+1687186916 c:\users\gc\desktop\version 12\nave.h
+
+1687106474 c:\users\gc\desktop\version 12\menu.h
+
+1687184102 source:c:\users\gc\desktop\version 12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687104195 c:\users\gc\desktop\version 12\naves.h
+
+1687144963 source:c:\users\gc\desktop\version 12\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687186916 source:c:\users\gc\desktop\version 12\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687146337 source:c:\users\fabri\desktop\version 13\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+
+1687144905 c:\users\fabri\desktop\version 13\astronauta.h
+
+1687196439 c:\users\fabri\desktop\version 13\nave.h
+
+1687195519 c:\users\fabri\desktop\version 13\menu.h
+
+1687194169 source:c:\users\fabri\desktop\version 13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687104195 c:\users\fabri\desktop\version 13\naves.h
+
+1687195519 source:c:\users\fabri\desktop\version 13\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687196126 source:c:\users\fabri\desktop\version 13\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687146337 source:c:\users\gc\desktop\version 14\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+
+1687144905 c:\users\gc\desktop\version 14\astronauta.h
+
+1687196439 c:\users\gc\desktop\version 14\nave.h
+
+1687195519 c:\users\gc\desktop\version 14\menu.h
+
+1687194169 source:c:\users\gc\desktop\version 14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687104195 c:\users\gc\desktop\version 14\naves.h
+
+1687197575 source:c:\users\gc\desktop\version 14\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687196845 source:c:\users\gc\desktop\version 14\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687146337 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 15\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+
+1687144905 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 15\astronauta.h
+
+1687200121 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 15\nave.h
+
+1687195519 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 15\menu.h
+
+1687199359 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687104195 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 15\naves.h
+
+1687200408 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 15\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687198782 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 15\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687203091 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 16\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687144905 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 16\astronauta.h
+
+1687201257 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 16\nave.h
+
+1687195519 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 16\menu.h
+
+1687199359 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687104195 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 16\naves.h
+
+1687203091 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 16\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687203091 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 16\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687204098 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 16\misiones.h
+
+1490112217 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 16\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 16\pila.c
+	"pila.h"
+
+1687203091 source:c:\users\gc\downloads\version 16\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687144905 c:\users\gc\downloads\version 16\astronauta.h
+
+1687201257 c:\users\gc\downloads\version 16\nave.h
+
+1687212902 c:\users\gc\downloads\version 16\menu.h
+
+1687213821 c:\users\gc\downloads\version 16\misiones.h
+
+1687199359 source:c:\users\gc\downloads\version 16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687104195 c:\users\gc\downloads\version 16\naves.h
+
+1687203091 source:c:\users\gc\downloads\version 16\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687212903 source:c:\users\gc\downloads\version 16\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687213896 source:c:\users\gc\downloads\version 16\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687216241 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 17\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687216693 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 17\astronauta.h
+
+1687201257 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 17\nave.h
+
+1687212902 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 17\menu.h
+
+1687216735 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 17\misiones.h
+
+1687199359 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687104195 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 17\naves.h
+
+1687203091 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 17\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687212903 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 17\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687216241 source:c:\users\gc\desktop\version 18\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687216693 c:\users\gc\desktop\version 18\astronauta.h
+
+1687201257 c:\users\gc\desktop\version 18\nave.h
+
+1687212902 c:\users\gc\desktop\version 18\menu.h
+
+1687225687 c:\users\gc\desktop\version 18\misiones.h
+
+1687226238 source:c:\users\gc\desktop\version 18\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+
+1687104195 c:\users\gc\desktop\version 18\naves.h
+
+1687203091 source:c:\users\gc\desktop\version 18\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687212903 source:c:\users\gc\desktop\version 18\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687226195 source:c:\users\gc\desktop\version 18\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687235045 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 19\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687216693 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 19\astronauta.h
+
+1687201257 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 19\nave.h
+
+1687212902 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 19\menu.h
+
+1687233581 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 19\misiones.h
+
+1687236960 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687104195 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 19\naves.h
+
+1687235184 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 19\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687228149 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 19\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687236950 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 19\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687299806 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 20\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687216693 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 20\astronauta.h
+
+1687300314 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 20\nave.h
+
+1687278218 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 20\menu.h
+
+1687300314 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 20\misiones.h
+
+1687300340 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 20\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687104195 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 20\naves.h
+
+1687228149 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 20\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687300366 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687278488 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 20\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687300366 source:c:\users\gc\desktop\version 21\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687301316 c:\users\gc\desktop\version 21\astronauta.h
+
+1687104195 c:\users\gc\desktop\version 21\naves.h
+
+1687304004 c:\users\gc\desktop\version 21\menu.h
+
+1687303801 c:\users\gc\desktop\version 21\misiones.h
+
+1687304030 source:c:\users\gc\desktop\version 21\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687303801 source:c:\users\gc\desktop\version 21\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687228149 source:c:\users\gc\desktop\version 21\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687303509 source:c:\users\gc\desktop\version 21\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687300314 c:\users\gc\desktop\version 21\nave.h
+
+1687304155 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 21\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687301316 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 21\astronauta.h
+
+1687300314 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 21\nave.h
+
+1687304004 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 21\menu.h
+
+1687310833 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 21\misiones.h
+
+1687304155 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 21\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687104195 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 21\naves.h
+
+1687310595 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 21\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687228149 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 21\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687310697 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 21\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+	"windows.h"
+
+1687311548 source:c:\users\gc\desktop\version 22\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687311548 c:\users\gc\desktop\version 22\astronauta.h
+
+1687311548 c:\users\gc\desktop\version 22\nave.h
+
+1687311548 c:\users\gc\desktop\version 22\menu.h
+
+1687314904 c:\users\gc\desktop\version 22\misiones.h
+
+1687311548 source:c:\users\gc\desktop\version 22\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687311548 c:\users\gc\desktop\version 22\naves.h
+
+1687314857 source:c:\users\gc\desktop\version 22\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687311548 source:c:\users\gc\desktop\version 22\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687314074 source:c:\users\gc\desktop\version 22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+	"windows.h"
+
+1687311548 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 22\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687311548 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 22\astronauta.h
+
+1687311548 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 22\nave.h
+
+1687311548 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 22\menu.h
+
+1687327045 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 22\misiones.h
+
+1687326640 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+	"windows.h"
+
+1687311548 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 22\naves.h
+
+1687311548 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 22\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687311548 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 22\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687327119 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 22\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687362398 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 24\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687311548 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 24\astronauta.h
+
+1687362459 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 24\nave.h
+
+1687311548 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 24\menu.h
+
+1687362821 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 24\misiones.h
+
+1687362821 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 24\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+	"windows.h"
+
+1687311548 c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 24\naves.h
+
+1687311548 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 24\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687362821 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 24\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687311548 source:c:\users\fabri\desktop\versiones spacex\spacex-projectutn\versiones\version 24\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"naves.h"
+	"menu.h"
+	"misiones.h"
+
+1687400583 source:c:\users\gc\downloads\version 24\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687400437 c:\users\gc\downloads\version 24\astronauta.h
+
+1687393056 c:\users\gc\downloads\version 24\nave.h
+
+1687396823 c:\users\gc\downloads\version 24\menu.h
+
+1687398296 c:\users\gc\downloads\version 24\misiones.h
+
+1687400060 source:c:\users\gc\downloads\version 24\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+	"windows.h"
+
+1687311548 c:\users\gc\downloads\version 24\naves.h
+
+1687400151 source:c:\users\gc\downloads\version 24\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687399751 source:c:\users\gc\downloads\version 24\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687400249 source:c:\users\gc\downloads\version 24\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687397423 source:c:\users\fabri\desktop\version 24\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687311548 c:\users\fabri\desktop\version 24\astronauta.h
+
+1687393056 c:\users\fabri\desktop\version 24\nave.h
+
+1687396823 c:\users\fabri\desktop\version 24\menu.h
+
+1687398296 c:\users\fabri\desktop\version 24\misiones.h
+
+1687398277 source:c:\users\fabri\desktop\version 24\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+	"windows.h"
+
+1687311548 c:\users\fabri\desktop\version 24\naves.h
+
+1687397293 source:c:\users\fabri\desktop\version 24\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687398687 source:c:\users\fabri\desktop\version 24\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687398838 source:c:\users\fabri\desktop\version 24\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687404674 source:c:\users\fabri\desktop\nueva carpeta\version 24\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687404208 c:\users\fabri\desktop\nueva carpeta\version 24\astronauta.h
+
+1687404208 c:\users\fabri\desktop\nueva carpeta\version 24\nave.h
+
+1687404208 c:\users\fabri\desktop\nueva carpeta\version 24\menu.h
+
+1687403925 c:\users\fabri\desktop\nueva carpeta\version 24\misiones.h
+
+1687404208 source:c:\users\fabri\desktop\nueva carpeta\version 24\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+	"windows.h"
+
+1687404208 source:c:\users\fabri\desktop\nueva carpeta\version 24\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687404674 source:c:\users\fabri\desktop\nueva carpeta\version 24\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687404616 source:c:\users\fabri\desktop\nueva carpeta\version 24\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687438444 source:c:\users\usuario\desktop\version definitiva\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687438470 c:\users\usuario\desktop\version definitiva\astronauta.h
+
+1687438190 c:\users\usuario\desktop\version definitiva\nave.h
+
+1687404208 c:\users\usuario\desktop\version definitiva\menu.h
+
+1687437751 c:\users\usuario\desktop\version definitiva\misiones.h
+
+1687434795 source:c:\users\usuario\desktop\version definitiva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+	"windows.h"
+
+1687438190 source:c:\users\usuario\desktop\version definitiva\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687438190 source:c:\users\usuario\desktop\version definitiva\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687438190 source:c:\users\usuario\desktop\version definitiva\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687482281 source:c:\users\gc\desktop\version definitiva\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687438472 c:\users\gc\desktop\version definitiva\astronauta.h
+
+1687482885 c:\users\gc\desktop\version definitiva\nave.h
+
+1687404210 c:\users\gc\desktop\version definitiva\menu.h
+
+1687472653 c:\users\gc\desktop\version definitiva\misiones.h
+
+1687434796 source:c:\users\gc\desktop\version definitiva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+	"windows.h"
+
+1687482920 source:c:\users\gc\desktop\version definitiva\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687482944 source:c:\users\gc\desktop\version definitiva\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687482820 source:c:\users\gc\desktop\version definitiva\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687485394 source:c:\users\fabri\desktop\version definitiva\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687438472 c:\users\fabri\desktop\version definitiva\astronauta.h
+
+1687482885 c:\users\fabri\desktop\version definitiva\nave.h
+
+1687404210 c:\users\fabri\desktop\version definitiva\menu.h
+
+1687486411 c:\users\fabri\desktop\version definitiva\misiones.h
+
+1687434796 source:c:\users\fabri\desktop\version definitiva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+	"windows.h"
+
+1687486822 source:c:\users\fabri\desktop\version definitiva\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687485639 source:c:\users\fabri\desktop\version definitiva\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687486822 source:c:\users\fabri\desktop\version definitiva\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687485394 source:c:\users\gc\desktop\tpfinallab1\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687438472 c:\users\gc\desktop\tpfinallab1\astronauta.h
+
+1687482885 c:\users\gc\desktop\tpfinallab1\nave.h
+
+1687404210 c:\users\gc\desktop\tpfinallab1\menu.h
+
+1687486411 c:\users\gc\desktop\tpfinallab1\misiones.h
+
+1687434796 source:c:\users\gc\desktop\tpfinallab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+	"windows.h"
+
+1687485639 source:c:\users\gc\desktop\tpfinallab1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687486822 source:c:\users\gc\desktop\tpfinallab1\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687486822 source:c:\users\gc\desktop\tpfinallab1\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
