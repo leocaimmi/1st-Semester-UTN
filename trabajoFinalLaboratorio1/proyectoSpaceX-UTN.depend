@@ -1519,3 +1519,59 @@
 	"menu.h"
 	"misiones.h"
 
+1687485394 source:c:\users\gc\desktop\programacion\1st-semester.utn\trabajofinallaboratorio1\astronauta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687438472 c:\users\gc\desktop\programacion\1st-semester.utn\trabajofinallaboratorio1\astronauta.h
+
+1687482885 c:\users\gc\desktop\programacion\1st-semester.utn\trabajofinallaboratorio1\nave.h
+
+1687404210 c:\users\gc\desktop\programacion\1st-semester.utn\trabajofinallaboratorio1\menu.h
+
+1687486411 c:\users\gc\desktop\programacion\1st-semester.utn\trabajofinallaboratorio1\misiones.h
+
+1687434796 source:c:\users\gc\desktop\programacion\1st-semester.utn\trabajofinallaboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+	"windows.h"
+
+1687485639 source:c:\users\gc\desktop\programacion\1st-semester.utn\trabajofinallaboratorio1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687486822 source:c:\users\gc\desktop\programacion\1st-semester.utn\trabajofinallaboratorio1\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+
+1687486822 source:c:\users\gc\desktop\programacion\1st-semester.utn\trabajofinallaboratorio1\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"astronauta.h"
+	"nave.h"
+	"menu.h"
+	"misiones.h"
+

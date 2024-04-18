@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684195244 source:c:\users\gc\desktop\arreglosdinamicos\main.c
+	<stdio.h>
+	<stdlib.h>
+

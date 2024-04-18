@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683139940 source:c:\users\gc\desktop\pruebaparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+

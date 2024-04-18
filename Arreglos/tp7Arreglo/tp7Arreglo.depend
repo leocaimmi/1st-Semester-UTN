@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1681995102 source:c:\users\usuario\desktop\tp7arreglo\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1681995104 source:c:\users\gc\desktop\programacion\c\arreglos\tp7arreglo\main.c
+	<stdio.h>
+	<stdlib.h>
+

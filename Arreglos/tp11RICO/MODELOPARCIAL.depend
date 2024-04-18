@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1682644915 source:c:\users\gc\desktop\modeloparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1682645010 source:c:\users\gc\desktop\programacion\c\arreglos\tp11rico\main.c
+	<stdio.h>
+	<stdlib.h>
+

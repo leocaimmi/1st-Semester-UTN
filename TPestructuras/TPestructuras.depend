@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1684770634 source:c:\users\usuario\desktop\tpestructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685557342 source:c:\users\gc\desktop\programacion\c\tpestructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1684856703 source:c:\users\usuario\downloads\tpestructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

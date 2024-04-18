@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684454750 source:c:\users\gc\desktop\tpmatricesdeterminantes\main.c
+	<stdio.h>
+	<stdlib.h>
+

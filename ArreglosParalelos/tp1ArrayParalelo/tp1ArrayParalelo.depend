@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1683614582 source:c:\users\usuario\desktop\tp1arrayparalelo\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1683736544 source:c:\users\gc\desktop\programacion\c\arreglosparalelos\tp1arrayparalelo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

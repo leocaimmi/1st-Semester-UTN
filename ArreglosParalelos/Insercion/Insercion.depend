@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1683848218 source:c:\users\gc\desktop\insercion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1683988809 source:c:\users\gc\desktop\programacion\c\arreglosparalelos\insercion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

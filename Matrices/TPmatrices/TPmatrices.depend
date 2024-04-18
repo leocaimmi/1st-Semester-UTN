@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1684250622 source:c:\users\usuario\desktop\tpmatrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1684369026 source:c:\users\gc\desktop\programacion\c\tpmatrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713465566 source:e:\programacion\c\matrices\tpmatrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

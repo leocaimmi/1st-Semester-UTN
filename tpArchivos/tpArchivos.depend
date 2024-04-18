@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1685622620 source:c:\users\usuario\desktop\tparchivos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1490112217 source:c:\users\usuario\desktop\pila.c
+	"pila.h"
+
+1490112217 c:\users\usuario\desktop\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\gc\desktop\programacion\c\tparchivos\pila.c
+	"pila.h"
+
+1490112217 c:\users\gc\desktop\programacion\c\tparchivos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1685671832 source:c:\users\gc\desktop\programacion\c\tparchivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"prototipado.h"
+
+1686263748 source:c:\users\gc\desktop\programacion\c\tparchivos\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"prototipado.h"
+
+1685671026 c:\users\gc\desktop\programacion\c\tparchivos\prototipado.h
+	<stdio.h>
+	<malloc.h>
+
